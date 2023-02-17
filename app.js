@@ -57,7 +57,7 @@ passport.use(
     {
       clientID: process.env.CLIENT_ID,
       clientSecret: process.env.CLIENT_SECRET,
-      callbackURL: "https://secrets-23pe.onrender.com/auth/google/secrets",
+      callbackURL: "https://secrets-0n1q.onrender.com/auth/google/secrets",
       userProfileURL: "https://www.googleapis.com/oauth2/v3/userinfo",
     },
     function (accessToken, refreshToken, profile, cb) {
