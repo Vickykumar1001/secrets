@@ -1,0 +1,29 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+.btn{
+  margin:10px;
+}
+.secret{
+  width:150px;
+  color:#343A40;
+  background-color: #E8ECEF;
+  border: 2px solid #343A40;
+}
+.secret:hover{
+  color:#E8ECEF;
+  background-color: #343A40;
+}
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  margin:30px auto;
+  background-color: #000;
+}
